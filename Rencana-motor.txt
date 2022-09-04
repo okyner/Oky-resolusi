@@ -1,0 +1,3 @@
+Rencana motor kedepan
+-Porting polish 
+-Riset kirian
