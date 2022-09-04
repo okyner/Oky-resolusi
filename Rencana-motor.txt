@@ -1,6 +1,11 @@
 Rencana motor kedepan
+MESIN
 -Porting polish 
   *Di Matsu Garage
 -Riset kirian
   *Di Matsu Garage
 -Riset Knalpot
+
+LOOK
+-Handgrip
+-WIndshield
